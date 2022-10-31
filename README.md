@@ -19,4 +19,4 @@ docker-compose up -d
 
 Para correr este proyecto es necesario tener instalado docker.
 
-# Productiones notes:
+# Productiones notes
